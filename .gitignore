@@ -4,10 +4,6 @@
 # production
 /build
 
-# environment variables
-.env
-.env.development
-
 # logging
 *.log
 
